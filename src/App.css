@@ -10,7 +10,7 @@
 /* Colors and Styling */
 :root {
   --PrimaryColor: hsl(199, 100%, 33%);
-  --SecendoryColor: hsl(187, 85%, 43%);
+  --SecondaryColor: hsl(187, 85%, 43%);
   --gradientColor: linear-gradient(
     to right,
     hsl(187, 85%, 43%),
@@ -58,12 +58,8 @@ li{
 }
 .btn{
   padding: 0.6rem 1.5rem ;
-  background-color: var(--gradientColor);
+  background: var(--gradientColor);
   border-radius: 3rem;
-  -webkit-border-radius: 3rem;
-  -moz-border-radius: 3rem;
-  -ms-border-radius: 3rem;
-  -o-border-radius: 3rem;
   border: none;
   outline: none;
   cursor: pointer;
@@ -76,7 +72,7 @@ li{
 }
 
 .btn:hover{
-  background: var(--SecendoryColor);
+  background: var(--SecondaryColor);
 }
 
 img, video{
