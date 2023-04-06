@@ -10,7 +10,7 @@ import img5 from '../../Assets/img 5.jpg'
 import img6 from '../../Assets/img6.jpg'                         
 import img7 from '../../Assets/img7.jpg'                         
 import img8 from '../../Assets/img13.jpg'                         
-import img9 from '../../Assets/img12.jpg'                         
+import img9 from '../../Assets/img14.jpg'                         
 
 //for animation
 import Aos from 'aos'
